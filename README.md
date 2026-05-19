@@ -33,4 +33,4 @@ PostgreSQL | Power BI
 ![Senior vs Junior](<Senior vs Junior.png>)
 
 ### 5. Tầm quan trọng của kỹ năng theo công ty
-![Cty quan trọng kĩ năng](<Cty quan trọng kĩ năng.png>)
+![Cty quan trọng kĩ năng](<Cty quan trọng kĩ năg.png>)
