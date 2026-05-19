@@ -4,7 +4,7 @@
 700,000+ job postings — Luke Barousse (2023)
 
 ## Tools
-PostgreSQL | Power BI
+PostgreSQL
 
 ## SQL Techniques Used
 - CTEs (multi-level)
